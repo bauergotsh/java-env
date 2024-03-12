@@ -21,7 +21,7 @@ $OracleJDKBinariesDirectory ="$OracleJDKDirectory\bin"
 $OracleJDK64 = 'jdk-8u341-windows-x64'
 $OracleJDKInstaller64 = "$OracleJDK64.exe"
 $OracleJDKURL64 ="https://downloads.sourceforge.net/portableapps/$OracleJDKInstaller64"
-$OracleJDKDirectory64 =".\$OracleJDK64"
+$OracleJDKDirectory64 ="$OracleJDK64"
 $OracleJDKBinariesDirectory64 ="$OracleJDKDirectory64\bin"
 
 $OracleJDKInternalCABPath = '.rsrc\1033\JAVA_CAB10'
